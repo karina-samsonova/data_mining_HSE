@@ -1,4 +1,4 @@
-# Домашние работы за курс по машинному обучению 1
+# Домашние работы за курс по машинному обучению
 1.  [numpy](https://github.com/karina-samsonova/machine_learning1/blob/main/hw01-numpy.ipynb)
 2.  [pandas](https://github.com/karina-samsonova/machine_learning1/blob/main/hw02_pandas.ipynb)
 3.  [EDA](https://github.com/karina-samsonova/machine_learning1/blob/main/hw03-EDA.ipynb)
