@@ -11,3 +11,5 @@
 ## Глубинное обучение
 1. [Введение в PyTorch. Полносвязные нейронные сети](https://github.com/karina-samsonova/data_mining_HSE/blob/main/homework-01.ipynb)
 2. Классификация изображений. [Задание 1.](https://github.com/karina-samsonova/data_mining_HSE/blob/main/hw_2_maslikov_upd.ipynb) [Задание 2.](https://github.com/karina-samsonova/data_mining_HSE/blob/main/hw_2_maslikov_upd_2_task.ipynb)
+## Прикладные задачи анализа данных
+1. 
